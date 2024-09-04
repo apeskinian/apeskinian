@@ -20,7 +20,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 
 ## Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=1F1F1F)](https://www.instagram.com/apeskinian/)
-[![Strava](https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=1F1F1F)](https://www.strava.com/athletes/138497633)
+[![Instagram](https://img.shields.io/badge/Instagram-1F1F1F?logo=instagram&logoColor=E4405F)](https://www.instagram.com/apeskinian/)
+[![Strava](https://img.shields.io/badge/Strava-1F1F1F?logo=strava&logoColor=FC4C02)](https://www.strava.com/athletes/138497633)
 
 
