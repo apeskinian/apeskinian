@@ -18,6 +18,10 @@ Before embarking on my developer career I've previously had 18 years experience 
 4. Fortnite
 5. Board Games
 
+## Projects for Diploma
+[![BGFC](https://img.shields.io/badge/BGFC-3c4d67?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p1_bgfc/)
+[![BGFC](https://img.shields.io/badge/Dragons%20are%20Cool-885239?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p2_dac/)
+
 ## Socials
 
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?&style=for-the-badge&logo=strava&logoColor=fff)](https://www.strava.com/athletes/138497633)
