@@ -12,7 +12,7 @@ I've previously had many years experience in the creative industry as an Archite
 ## I like...
 1. Watches
 2. Cycling
-3. Fortnite
-4. Lego
+3. Lego
+4. Fortnite
 5. Board Games
 
