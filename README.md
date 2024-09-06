@@ -2,7 +2,7 @@
 
 I'm currently working towards my diploma in full stack software development with the Code Institute.
 
-I am also starting to learn Swift and having a go at Japanese with duolingo too!
+I am also starting to learn Swift and Japanese!
 
 Before embarking on my developer career I've previously had 18 years experience in the creative industry as an Architectural modelmaker, see my portfolio of everything [here](https://apeskinian.github.io/)! I love making things both in the digital and analogue world.
 
