@@ -16,7 +16,8 @@ Before embarking on my developer career I've previously had 18 years experience 
 2. Cycling
 3. Lego
 4. Fortnite
-5. Board Games
+5. Minecraft
+6. Board Games
 
 ## Projects for Diploma
 [![BGFC](https://img.shields.io/badge/BGFC-3c4d67?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p1_bgfc/)
