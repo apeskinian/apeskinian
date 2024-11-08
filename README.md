@@ -8,8 +8,8 @@ Before embarking on my developer career I've previously had 18 years experience 
 
 ## I'm learning...
 1. Full stack software devlopment
+2. Japanese
 3. Swift
-4. Japanese
 
 ## I like...
 1. Watches
@@ -21,7 +21,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 
 ## Projects for Diploma
 [![BGFC](https://img.shields.io/badge/BGFC-3c4d67?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p1_bgfc/)
-[![BGFC](https://img.shields.io/badge/Dragons%20are%20Cool-885239?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p2_dac/)
+[![DAC](https://img.shields.io/badge/Dragons%20are%20Cool-885239?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p2_dac/)
 
 ## Socials
 
