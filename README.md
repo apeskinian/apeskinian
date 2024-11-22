@@ -22,6 +22,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 ## Projects for Diploma
 [![BGFC](https://img.shields.io/badge/BGFC-3c4d67?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p1_bgfc/)
 [![DAC](https://img.shields.io/badge/Dragons%20are%20Cool-885239?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p2_dac/)
+[![WOM](https://img.shields.io/badge/Watch-O-Matic-6F7378?&style=for-the-badge&logoColor=fff)](https://apeskinian-watch-o-matic-8cd45839ba26.herokuapp.com/))
 
 ## Socials
 
