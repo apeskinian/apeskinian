@@ -9,7 +9,8 @@ Before embarking on my developer career I've previously had 18 years experience 
 ## I'm learning...
 1. Full stack software devlopment
 2. Japanese
-3. Swift
+3. German
+4. Swift [starting soon anyway :)]
 
 ## I like...
 1. Watches
