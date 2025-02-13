@@ -24,6 +24,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 [![BGFC](https://img.shields.io/badge/BGFC-3c4d67?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p1_bgfc/)
 [![DAC](https://img.shields.io/badge/Dragons%20are%20Cool-885239?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p2_dac/)
 [![WOM](https://img.shields.io/badge/WatchOMatic-6F7378?&style=for-the-badge&logoColor=fff)](https://apeskinian-watch-o-matic-8cd45839ba26.herokuapp.com/)
+[![WOT](https://img.shields.io/badge/WatchOTron-e6e6e6?&style=for-the-badge&logoColor=fff)](https://apeskinian-watch-o-tron-f4512ce56f33.herokuapp.com/)
 
 ## Socials
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?&style=for-the-badge&logo=strava&logoColor=fff)](https://www.strava.com/athletes/138497633)
