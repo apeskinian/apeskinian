@@ -6,11 +6,9 @@ I am also starting to learn and Japanese and Swift.
 
 Before embarking on my developer career I've previously had 18 years experience in the creative industry as an Architectural modelmaker, see my portfolio of everything [here](https://apeskinian.github.io/)! I love making things both in the digital and analogue world.
 
-## I'm learning...
+## I'm currently learning...
 1. Full stack software devlopment
 2. Japanese
-3. German
-4. Swift [starting soon anyway :)]
 
 ## I like...
 1. Watches
@@ -18,7 +16,12 @@ Before embarking on my developer career I've previously had 18 years experience 
 3. Lego
 4. Fortnite
 5. Minecraft
-6. Board Games
+6. Stardew Valley
+7. Board Games
+
+## I want to...
+1. Continue learning German
+2. Start learning Swift
 
 ## Projects for Diploma
 [![BGFC](https://img.shields.io/badge/BGFC-3c4d67?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p1_bgfc/)
