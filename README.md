@@ -19,7 +19,9 @@ Before embarking on my developer career I've previously had 18 years experience 
 
 ## I want to...
 1. Continue learning German
-2. Start learning Swift
+2. Learn React
+3. Learn C#
+4. Learn Swift
 
 ## Projects for Diploma
 [![BGFC](https://img.shields.io/badge/BGFC-3c4d67?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p1_bgfc/)
