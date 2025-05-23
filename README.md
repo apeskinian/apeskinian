@@ -1,8 +1,8 @@
 # [![Matthew Aitken](/assets/apeskinian_banner.png)](https://apeskinian.github.io/)
 
-Junior software developer with a strong foundation in technical problem-solving, precision, and project management. Brings a unique blend of creativity, technical craftsmanship, and a proven ability to learn and adapt quickly to new technologies.
+I'm a software developer with a strong foundation in technical problem-solving, precision, and project management. Bringing a unique blend of creativity, technical craftsmanship, and a proven ability to learn and adapt quickly to new technologies, I love making things both in the digital and analogue world.
 
-Before embarking on my developer career I've previously had 18 years experience in the creative industry as an Architectural modelmaker, see my portfolio of everything [here](https://apeskinian.github.io/)! I love making things both in the digital and analogue world.
+Before embarking on my developer career I've previously had 18 years experience in the creative industry as an Architectural modelmaker, see my portfolio of everything [here](https://apeskinian.github.io/)!
 
 ## I'm currently...
 1. Working toward a Diploma in Full Stack Software Development with Code Institute
@@ -54,13 +54,25 @@ Before embarking on my developer career I've previously had 18 years experience 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)](https://pages.github.com/)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=for-the-badge)](https://cloudinary.com/)
 
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://www.postgresql.org/)
+
+### Design
+[![Balsamiq](https://img.shields.io/badge/Balsamiq-a7295a?&style=for-the-badge)](https://balsamiq.com/)
+[![Lucid](https://img.shields.io/badge/Lucid-282C33?logo=lucid&logoColor=fff&style=for-the-badge)](https://www.lucidchart.com/pages)
+[![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=fff&style=for-the-badge)](https://www.mermaidchart.com/)
+[![Affinity Photo 2](https://img.shields.io/badge/Affinity%20Photo-4E3188?logo=affinityphoto&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-gb/photo/)
+[![Affinity Designer 2](https://img.shields.io/badge/Affinity%20Designer-134881?logo=affinitydesigner&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-gb/designer/)
+[![Rhino3D](https://img.shields.io/badge/Rhinoceros-801010?logo=rhinoceros&logoColor=fff&style=for-the-badge)](https://www.rhino3d.com/)
+
+### Productivity
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)](https://www.notion.com/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)](https://slack.com/intl/en-gb/)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)](https://trello.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)](https://openai.com/)
+
 ### Socials
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?&style=for-the-badge&logo=strava&logoColor=fff)](https://www.strava.com/athletes/138497633)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/apeskinian/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/apeskinian/)
 [![Instagram](https://img.shields.io/badge/Duolingo-58CC02?&style=for-the-badge&logo=duolingo&logoColor=fff)](https://www.duolingo.com/profile/apeskinian)
-
-
-
-
-
