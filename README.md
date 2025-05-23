@@ -5,7 +5,7 @@ Junior software developer with a strong foundation in technical problem-solving,
 Before embarking on my developer career I've previously had 18 years experience in the creative industry as an Architectural modelmaker, see my portfolio of everything [here](https://apeskinian.github.io/)! I love making things both in the digital and analogue world.
 
 ## I'm currently...
-1. Working toward a Diploma in Full Stack Software Devlopment with Code Institute
+1. Working toward a Diploma in Full Stack Software Development with Code Institute
 2. Learning React with Udemy
 3. Learning Japanese
 4. Training to ride London to Brighton in June 2025
@@ -32,7 +32,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 ### Programming Languages
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScipt](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://en.wikipedia.org/wiki/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://en.wikipedia.org/wiki/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/Markdown)
 
