@@ -34,6 +34,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScipt](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://en.wikipedia.org/wiki/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/Markdown)
 
 ### Frameworks | Libraries | APIs
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)](https://www.djangoproject.com/)
