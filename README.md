@@ -23,11 +23,11 @@ Before embarking on my developer career I've previously had 18 years experience 
 4. Learn Swift
 
 ### Portfolio Projects for Diploma
-[![BGFC](https://img.shields.io/badge/BGFC-3c4d67?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p1_bgfc/)
-[![DAC](https://img.shields.io/badge/Dragons%20are%20Cool-885239?&style=for-the-badge&logoColor=fff)](https://apeskinian.github.io/p2_dac/)
-[![WOM](https://img.shields.io/badge/WatchOMatic-6F7378?&style=for-the-badge&logoColor=fff)](https://apeskinian-watch-o-matic-8cd45839ba26.herokuapp.com/)
-[![WOT](https://img.shields.io/badge/WatchOTron-e6e6e6?&style=for-the-badge&logoColor=fff)](https://apeskinian-watch-o-tron-f4512ce56f33.herokuapp.com/)
-[![TU](https://img.shields.io/badge/Treasures%20Untold-934a59?&style=for-the-badge&logoColor=fff)](https://apeskinian-treasures-untold-568a3e176ede.herokuapp.com/)
+[![TU](assets/treasures_untold.png)](https://apeskinian-treasures-untold-568a3e176ede.herokuapp.com/)
+[![WOT](assets/watch_o_tron.png)](https://apeskinian-watch-o-tron-f4512ce56f33.herokuapp.com/)
+[![WOM](assets/watch_o_matic.png)](https://apeskinian-watch-o-matic-8cd45839ba26.herokuapp.com/)
+[![DAC](assets/dragons_are_cool.png)](https://apeskinian.github.io/p2_dac/)
+[![BGFC](assets/bgfc.png)](https://apeskinian.github.io/p1_bgfc/)
 
 ### Programming Languages
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML)
