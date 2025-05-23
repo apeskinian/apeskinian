@@ -1,4 +1,4 @@
-# [![Matthew Aitken](https://github.com/user-attachments/assets/69e4b9a3-ab6d-4097-b89a-70b12a4b4c5e)](https://apeskinian.github.io/)
+# [![Matthew Aitken](https://github.com/user-attachments/assets/0d0fa9e0-5b32-4f19-9452-7de65329ab9b)](https://apeskinian.github.io/)
 
 Junior software developer with a strong foundation in technical problem-solving, precision, and project management. Brings a unique blend of creativity, technical craftsmanship, and a proven ability to learn and adapt quickly to new technologies.
 
