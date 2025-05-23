@@ -4,22 +4,20 @@ Junior software developer with a strong foundation in technical problem-solving,
 
 Before embarking on my developer career I've previously had 18 years experience in the creative industry as an Architectural modelmaker, see my portfolio of everything [here](https://apeskinian.github.io/)! I love making things both in the digital and analogue world.
 
-## I'm currently learning...
-1. Full stack software devlopment
-2. Japanese
+## I'm currently...
+1. Working toward a Diploma in Full Stack Software Devlopment with Code Institute
+2. Learning React with Udemy
+3. Learning Japanese
 
 ## I like...
 1. Watches
 2. Cycling
+4. Fortnite | Minecraft | Stardew Valley
+5. Board Games
 3. Lego
-4. Fortnite
-5. Minecraft
-6. Stardew Valley
-7. Board Games
 
 ## I want to...
 1. Continue learning German
-2. Learn React
 3. Learn C#
 4. Learn Swift
 
