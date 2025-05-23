@@ -8,6 +8,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 1. Working toward a Diploma in Full Stack Software Devlopment with Code Institute
 2. Learning React with Udemy
 3. Learning Japanese
+4. Training to ride London to Brighton in June 2025
 
 ## I like...
 1. Watches
