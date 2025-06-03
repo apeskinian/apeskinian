@@ -5,7 +5,7 @@ I'm a software developer with a strong foundation in technical problem-solving, 
 Before embarking on my developer career I've previously had 18 years experience in the creative industry as an Architectural modelmaker, see my portfolio of everything [here](https://apeskinian.github.io/)!
 
 ## I'm currently...
-1. Working toward a Diploma in Full Stack Software Development with Code Institute
+1. Seeking my first role as a developer
 2. Learning React with Udemy
 3. Learning Japanese
 4. Training to ride London to Brighton in June 2025
