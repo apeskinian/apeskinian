@@ -64,6 +64,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 [![Affinity Photo 2](https://img.shields.io/badge/Affinity%20Photo-4E3188?logo=affinityphoto&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-gb/photo/)
 [![Affinity Designer 2](https://img.shields.io/badge/Affinity%20Designer-134881?logo=affinitydesigner&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-gb/designer/)
 [![Rhino3D](https://img.shields.io/badge/Rhinoceros-801010?logo=rhinoceros&logoColor=fff&style=for-the-badge)](https://www.rhino3d.com/)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=for-the-badge)](https://www.autodesk.com/uk/products/autocad/)
 
 ### Manufacture
 [![BambuLab](https://img.shields.io/badge/Bambu%20Lab-00AE42?logo=bambulab&logoColor=fff&style=for-the-badge)](https://bambulab.com/en-us/download/studio)
