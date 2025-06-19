@@ -39,6 +39,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 ### Frameworks | Libraries | APIs
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)](https://www.djangoproject.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)](https://getbootstrap.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)](https://tailwindcss.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)](https://jquery.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=fff&style=for-the-badge)](https://stripe.com/gb)
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-538DD7?logo=fontawesome&logoColor=fff&style=for-the-badge)](https://fontawesome.com/)
