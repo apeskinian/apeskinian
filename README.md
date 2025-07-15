@@ -49,10 +49,12 @@ Before embarking on my developer career I've previously had 18 years experience 
 [![VSCode](https://img.shields.io/badge/VSCode-0A66C2?&style=for-the-badge)](https://code.visualstudio.com/)
 [![Gitpod](https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=fff&style=for-the-badge)](https://www.gitpod.io/)
 
-### Hosting
+### Hosting | Deployment
 [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge)](https://www.heroku.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)](https://pages.github.com/)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=for-the-badge)](https://cloudinary.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)](https://kubernetes.io/)
 
 ### Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://www.postgresql.org/)
@@ -68,6 +70,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 
 ### Manufacture
 [![BambuLab](https://img.shields.io/badge/Bambu%20Lab-00AE42?logo=bambulab&logoColor=fff&style=for-the-badge)](https://bambulab.com/en-us/download/studio)
+[![Creality](https://img.shields.io/badge/Creality-000?logo=creality&logoColor=fff&style=for-the-badge)](https://www.crealityfalcon.com/pages/download/)
 
 ### Productivity
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)](https://www.notion.com/)
