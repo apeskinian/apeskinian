@@ -6,9 +6,8 @@ Before embarking on my developer career I've previously had 18 years experience 
 
 ## I'm currently...
 1. Seeking my first role as a developer
-2. Learning Docker and Kubernetes with Udemy
-3. Learning React with Udemy
-4. Learning Japanese
+2. Learning React with Udemy
+3. Learning Japanese
 
 ## I like...
 1. Watches
