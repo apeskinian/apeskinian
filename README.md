@@ -60,6 +60,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://www.postgresql.org/)
 
 ### Design
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)](https://www.figma.com/)
 [![Balsamiq](https://img.shields.io/badge/Balsamiq-a7295a?&style=for-the-badge)](https://balsamiq.com/)
 [![Lucid](https://img.shields.io/badge/Lucid-282C33?logo=lucid&logoColor=fff&style=for-the-badge)](https://www.lucidchart.com/pages)
 [![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=fff&style=for-the-badge)](https://www.mermaidchart.com/)
