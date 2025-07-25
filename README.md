@@ -22,11 +22,11 @@ Before embarking on my developer career I've previously had 18 years experience 
 4. Learn Swift
 
 ### Portfolio Projects for Diploma
-[![TU](assets/treasures_untold.png)](https://apeskinian-treasures-untold-568a3e176ede.herokuapp.com/)
-[![WOT](assets/watch_o_tron.png)](https://apeskinian-watch-o-tron-f4512ce56f33.herokuapp.com/)
-[![WOM](assets/watch_o_matic.png)](https://apeskinian-watch-o-matic-8cd45839ba26.herokuapp.com/)
-[![DAC](assets/dragons_are_cool.png)](https://apeskinian.github.io/p2_dac/)
-[![BGFC](assets/bgfc.png)](https://apeskinian.github.io/p1_bgfc/)
+[![TU](assets/treasures_untold.png)](https://treasures.apeskinian.com/)
+[![WOT](assets/watch_o_tron.png)](https://watch-o-tron.apeskinian.com/)
+[![WOM](assets/watch_o_matic.png)](https://watch-o-matic.apeskinian.com/)
+[![DAC](assets/dragons_are_cool.png)](https://dac.apeskinian.com/)
+[![BGFC](assets/bgfc.png)](https://bgfc.apeskinian.com/)
 
 ### Programming Languages
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML)
