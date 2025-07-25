@@ -1,4 +1,4 @@
-# [![Matthew Aitken](/assets/apeskinian_banner.png)](https://apeskinian.github.io/)
+# [![Matthew Aitken](/assets/apeskinian_banner.png)](https://www.apeskinian.com/)
 
 I'm a software developer with a strong foundation in technical problem-solving, precision, and project management. Bringing a unique blend of creativity, technical craftsmanship, and a proven ability to learn and adapt quickly to new technologies, I love making things both in the digital and analogue world.
 
