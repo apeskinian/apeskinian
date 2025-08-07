@@ -2,7 +2,7 @@
 
 I'm a software developer with a strong foundation in technical problem-solving, precision, and project management. Bringing a unique blend of creativity, technical craftsmanship, and a proven ability to learn and adapt quickly to new technologies, I love making things both in the digital and analogue world.
 
-Before embarking on my developer career I've previously had 18 years experience in the creative industry as an Architectural modelmaker, see my portfolio of everything [here](https://apeskinian.github.io/)!
+Before embarking on my developer career I've previously had 18 years experience in the creative industry as an Architectural modelmaker, see my portfolio of everything [here](https://www.apeskinian.com)!
 
 ## I'm currently...
 1. Seeking my first role as a developer
