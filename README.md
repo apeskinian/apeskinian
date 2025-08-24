@@ -21,9 +21,10 @@ Before embarking on my developer career I've previously had 18 years experience 
 3. Learn C#
 4. Learn Swift
 
-### Portfolio Projects for Diploma
+### Portfolio Projects
 [![TU](assets/treasures_untold.png)](https://treasures.apeskinian.com/)
 [![WOT](assets/watch_o_tron.png)](https://watch-o-tron.apeskinian.com/)
+[![WOT](assets/lander.png)](https://lander.apeskinian.com/)
 [![WOM](assets/watch_o_matic.png)](https://watch-o-matic.apeskinian.com/)
 [![DAC](assets/dragons_are_cool.png)](https://dragons.apeskinian.com/)
 [![BGFC](assets/bgfc.png)](https://bgfc.apeskinian.com/)
@@ -37,6 +38,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 
 ### Frameworks | Libraries | APIs
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)](https://www.djangoproject.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)](https://react.dev/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)](https://getbootstrap.com/)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)](https://tailwindcss.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)](https://jquery.com/)
