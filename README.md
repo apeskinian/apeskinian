@@ -45,6 +45,12 @@ Before embarking on my developer career I've previously had 18 years experience 
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=fff&style=for-the-badge)](https://stripe.com/gb)
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-538DD7?logo=fontawesome&logoColor=fff&style=for-the-badge)](https://fontawesome.com/)
 
+### QA | Testing
+[![PyTest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge)](https://docs.pytest.org/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)](https://jestjs.io/)
+[![ViTest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=for-the-badge)](https://vitest.dev/)
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge)](https://www.cypress.io/)
+
 ### Version Control | IDEs
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/apeskinian)
