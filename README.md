@@ -6,7 +6,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 
 ## I'm currently...
 1. Seeking my first role as a developer
-2. Learning React with Udemy
+2. Honing my skills
 3. Learning Japanese
 
 ## I like...
