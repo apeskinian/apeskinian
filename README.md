@@ -59,6 +59,7 @@ Before embarking on my developer career I've previously had 18 years experience 
 [![Gitpod](https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=fff&style=for-the-badge)](https://www.gitpod.io/)
 
 ### Hosting | Deployment
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)](https://www.cloudflare.com/en-gb/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge)](https://www.heroku.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)](https://pages.github.com/)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=for-the-badge)](https://cloudinary.com/)
@@ -78,9 +79,10 @@ Before embarking on my developer career I've previously had 18 years experience 
 [![Rhino3D](https://img.shields.io/badge/Rhinoceros-801010?logo=rhinoceros&logoColor=fff&style=for-the-badge)](https://www.rhino3d.com/)
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=for-the-badge)](https://www.autodesk.com/uk/products/autocad/)
 
-### Manufacture
+### Hardware | Embedded Systems
 [![BambuLab](https://img.shields.io/badge/Bambu%20Lab-00AE42?logo=bambulab&logoColor=fff&style=for-the-badge)](https://bambulab.com/en-us/download/studio)
 [![Creality](https://img.shields.io/badge/Creality-000?logo=creality&logoColor=fff&style=for-the-badge)](https://www.crealityfalcon.com/pages/download/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge)](https://www.raspberrypi.com/)
 
 ### Productivity
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)](https://www.notion.com/)
