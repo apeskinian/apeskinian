@@ -1,8 +1,10 @@
 # [![Matthew Aitken](/assets/apeskinian_banner.png)](https://www.apeskinian.com/)
 
-I'm a software developer with a strong foundation in technical problem-solving, precision, and project management. Bringing a unique blend of creativity, technical craftsmanship, and a proven ability to learn and adapt quickly to new technologies, I love making things both in the digital and analogue world.
+I'm a software developer with a strong foundation in technical problem-solving, precision, and project management—backed by a distinction-grade diploma in Full Stack Software Development. I bring a unique blend of creativity, technical craftsmanship, and a proven ability to learn and adapt quickly to new technologies.
 
-Before embarking on my developer career I've previously had 18 years experience in the creative industry as an Architectural modelmaker, see my portfolio of everything [here](https://www.apeskinian.com)!
+Before transitioning into tech, I spent 18 years in the creative industry as an architectural modelmaker, delivering complex physical builds to exacting standards. I love making things, whether it's clean, maintainable code or intricate analogue creations.
+
+Explore my full portfolio of digital and physical projects [here](https://www.apeskinian.com)!
 
 ## I'm currently...
 1. Seeking my first role as a developer
