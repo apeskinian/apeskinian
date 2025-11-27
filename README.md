@@ -25,6 +25,7 @@ Explore my full portfolio of digital and physical projects [here](https://www.ap
 4. Learn Swift
 
 ### Portfolio Projects
+[![SQUAREMILE](assets/squaremile.png)](https://squaremile.apeskinian.com)
 [![LANDER](assets/lander.png)](https://lander.apeskinian.com/)
 [![TU](assets/treasures_untold.png)](https://treasures.apeskinian.com/)
 [![WOT](assets/watch_o_tron.png)](https://watch-o-tron.apeskinian.com/)
