@@ -11,6 +11,7 @@ Explore my full portfolio of digital and physical projects [here](https://www.ap
 2. Re-developing my portfolio site
 3. Working on an interactive lighting system
 4. Learning Japanese
+5. Learning Spanish
 
 ## I like...
 1. Watches
