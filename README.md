@@ -7,7 +7,7 @@ Before transitioning into tech, I spent 18 years in the creative industry as an 
 Explore my full portfolio of digital and physical projects [here](https://www.apeskinian.com)!
 
 ## I'm currently...
-1. Re-developing my portfolio site
+1. Enjoying every day as a full stack software engineer!
 2. Working on interactive lighting systems
 3. Learning Japanese
 4. Learning Spanish
@@ -21,7 +21,8 @@ Explore my full portfolio of digital and physical projects [here](https://www.ap
 
 ## I want to...
 1. Continue learning German
-3. Learn C#
+2. Re-developing my portfolio site
+3. Learn .NET
 4. Learn Swift
 
 ### Portfolio Projects
