@@ -80,6 +80,13 @@ Explore my full portfolio of digital and physical projects [here](https://www.ap
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://www.postgresql.org/)
 
+### Collaboration | Productivity
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge)](https://www.atlassian.com/software/jira)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)](https://www.notion.com/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)](https://slack.com/intl/en-gb/)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)](https://trello.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)](https://openai.com/)
+
 ### Design
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)](https://www.figma.com/)
 [![Balsamiq](https://img.shields.io/badge/Balsamiq-a7295a?&style=for-the-badge)](https://balsamiq.com/)
@@ -94,12 +101,6 @@ Explore my full portfolio of digital and physical projects [here](https://www.ap
 [![BambuLab](https://img.shields.io/badge/Bambu%20Lab-00AE42?logo=bambulab&logoColor=fff&style=for-the-badge)](https://bambulab.com/en-us/download/studio)
 [![Creality](https://img.shields.io/badge/Creality-000?logo=creality&logoColor=fff&style=for-the-badge)](https://www.crealityfalcon.com/pages/download/)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge)](https://www.raspberrypi.com/)
-
-### Productivity
-[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)](https://www.notion.com/)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)](https://slack.com/intl/en-gb/)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)](https://trello.com/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)](https://openai.com/)
 
 ### Socials
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?&style=for-the-badge&logo=strava&logoColor=fff)](https://www.strava.com/athletes/138497633)
