@@ -45,6 +45,8 @@ Explore my full portfolio of digital and physical projects [here](https://www.ap
 
 ### Frameworks | Libraries | APIs
 [![Angular](https://img.shields.io/badge/Angular-9127F6?logo=angular&logoColor=fff&style=for-the-badge)](https://angular.dev/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)](https://nestjs.com)
+[![Mongoose](https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=for-the-badge)](https://mongoosejs.com)
 [![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff&style=for-the-badge)](https://hono.dev/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)](https://vite.dev/)
